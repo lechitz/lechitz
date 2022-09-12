@@ -9,7 +9,7 @@
   
   > Electrical Engineering student [UFJF](https://ufjf.br)
   
-  > Systems Analysis and Development Intern at [Bemobi](https://bemobi.com)
+  > Software Developer Intern at [Bemobi](https://bemobi.com)
   
   
  <div align="left" style="display: inline_block"><br>
