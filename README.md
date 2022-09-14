@@ -1,5 +1,5 @@
 <div>
- <img align="right" height="600px" src="https://images2.imgbox.com/09/e8/5nikpDcn_o.png"/>
+ <img align="right" height="405px" src="https://images2.imgbox.com/09/e8/5nikpDcn_o.png"/>
  <h1 align="center">Hi, I'm Felipe Bravo !</h1>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=lechitz&color=orange" alt="Profile views" /> </p>
   
@@ -24,8 +24,8 @@
  </div>
   
  <div align="left" style="display: inline_block"></br>
-    <img height="129em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechitz&layout=compact&langs_count=7&theme=dark"/>
-    <img height="129em" src="https://github-readme-stats.vercel.app/api?username=lechitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechitz&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lechitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <br>
  </div>
 </div>
