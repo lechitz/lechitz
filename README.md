@@ -32,7 +32,7 @@
 
 ##
 
-<h3 align="left">[ ABOUT ME ]</h3><br>
+<h3 align="left">[ CONTACTS ]</h3><br>
 <div align="center" style="display: inline_block"> 
   <a href="https://instagram.com/felipelechitz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
