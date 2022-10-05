@@ -1,6 +1,6 @@
 <div>
  <img align="right" height="405px" src="https://images2.imgbox.com/09/e8/5nikpDcn_o.png"/>
- <h1 align="center">Hi, I'm Felipe Bravo !</h1>
+ <h1 align="center">Hi, I'm Felipe Bravo!</h1>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=lechitz&color=orange" alt="Profile views" /> </p>
   
   <h3 align="left">[ ABOUT ME ]</h3><br>
