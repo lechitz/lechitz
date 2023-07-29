@@ -8,8 +8,7 @@
   > System Analysis and Development studant [Uninter](https://uninter.com)
   
   > Electrical Engineering student [UFJF](https://ufjf.br)
-  
-  > Software Developer Intern at [Bemobi](https://bemobi.com)
+ 
   
   
  <div align="left" style="display: inline_block"><br>
