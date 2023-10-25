@@ -21,11 +21,16 @@
   <img align="center" alt="Lechitz-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt"Lechitz-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
  </div>
+
   
- <div align="left" style="display: inline_block"></br>
-    <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechitz&layout=compact&langs_count=7&theme=dark"/>
-    <img height="192em" src="https://github-readme-stats.vercel.app/api?username=lechitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br>
+ <div align="center">
+  
+  </br></br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lechitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ffa500" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lechitz&layout=compact&langs_count=8&theme=dark&title_color=ffa500" />
  </div>
 </div>
 
