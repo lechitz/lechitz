@@ -30,14 +30,14 @@
   </a>
   -->
   <a href="https://github.com/anuraghazra/convoychat">
-     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lechitz&layout=compact&langs_count=8&theme=dark&title_color=ffa500" />
+     <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lechitz&layout=compact&langs_count=8&theme=dark&title_color=ffa500" />
  </div>
 </div>
 
 ##
 
 
-<h3 align="left" height="300">[ CONTACTS ]</h3>
+<h3 align="center" height="300">[ CONTACTS ]</h3>
 
 <div align="center" style="display: inline_block"> 
   <a align="center" href="https://instagram.com/felipelechitz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
