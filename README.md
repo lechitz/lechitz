@@ -24,9 +24,11 @@
  <div align="center">
   
   </br></br>
+  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lechitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ffa500" />
   </a>
+  -->
   <a href="https://github.com/anuraghazra/convoychat">
      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lechitz&layout=compact&langs_count=8&theme=dark&title_color=ffa500" />
  </div>
