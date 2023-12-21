@@ -1,14 +1,9 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/lechitz/lechitz/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<div align="center">
+<img align="center" style="margin-bottom:400px" width=250px src="https://github.com/lechitz/lechitz/blob/main/header.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Hi, I´m Felipe! <br><br> 123 <strong>456</strong> 789</p>&nbsp;
+</div>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lechitz&theme=dark&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lechitz&show_icons=true&theme=dark&layout=compact" />
- </div>
- 
  &nbsp;
  &nbsp;
 
@@ -51,16 +46,25 @@
 &nbsp;
 &nbsp;
 
+
+ <div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lechitz&theme=dark&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lechitz&show_icons=true&theme=dark&layout=compact" />
+ </div>
+ 
+ &nbsp;
+&nbsp;
+
 ## Contacts:
 
-<div> 
+<div align="center"> 
 <a href="https://www.instagram.com/felipelechitz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.felipe.lechitz@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipelechitz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@felipelechitz" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
+
 
   
   
