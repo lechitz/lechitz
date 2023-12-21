@@ -24,7 +24,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-<img src="https://..." min-width="400px" max-width="400px" width="400px" align="right" alt="...">
+<img src="https://https://github.com/lechitz/lechitz/lechitz/blob/main/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="...">
 
 #### Secondary Stack:
 
