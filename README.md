@@ -13,6 +13,8 @@
 
 #### Main Stack:
 
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -55,7 +57,12 @@
  &nbsp;
 &nbsp;
 
-## Contacts:
+<div align="center">
+ 
+ ## Contacts:
+
+</div>
+
 
 <div align="center"> 
 <a href="https://www.instagram.com/felipelechitz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
