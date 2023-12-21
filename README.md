@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" style="margin-bottom:400px" width=450px src="https://github.com/lechitz/lechitz/blob/main/header.png?raw=true" />
+<img align="center" style="margin-bottom:400px" width=100% src="https://github.com/lechitz/lechitz/blob/main/header.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
 </div>
