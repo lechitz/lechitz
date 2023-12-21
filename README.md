@@ -54,6 +54,10 @@
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 </br>
 
+ <div  align="center">
+  </br>
+</div>
+
 
  <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lechitz&theme=dark&mode=weekly" />
@@ -91,4 +95,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% style="transform: rotate(18deg)" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
