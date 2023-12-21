@@ -1,5 +1,5 @@
-`<div align="center">
-<img align="center" style="margin-bottom:400px" width=100% src="https://github.com/lechitz/lechitz/blob/main/img/header4.png?raw=true" />
+<div align="center">
+<!-- <img align="center" style="margin-bottom:400px" width=100% src="https://github.com/lechitz/lechitz/blob/main/img/header4.png?raw=true" /> -->
 &nbsp;&nbsp;&nbsp;
 
 </div>
@@ -9,7 +9,7 @@
 
 
 
-## My Skills
+## Hi, I´m Felipe Bravo!
 
 #### Main Stack:
 
