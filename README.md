@@ -1,4 +1,5 @@
 <div align="center">
+ <img src="https://komarev.com/ghpvc/?username=lechitz&color=orange" alt="Profile views">
 <!-- <img align="center" style="margin-bottom:400px" width=100% src="https://github.com/lechitz/lechitz/blob/main/img/header4.png?raw=true" /> -->
 &nbsp;&nbsp;&nbsp;
 
