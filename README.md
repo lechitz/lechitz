@@ -1,19 +1,13 @@
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=lechitz&color=orange" alt="Profile views">
-<!-- <img align="center" style="margin-bottom:400px" width=100% src="https://github.com/lechitz/lechitz/blob/main/img/header4.png?raw=true" /> -->
-&nbsp;&nbsp;&nbsp;
-
+&nbsp;
 </div>
 
- &nbsp;
- &nbsp;
-
-
+ 
 
 <h1 align="center"> Hi, I'm Felipe Bravo! </h1>
 
 ### Main Stack:
-
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -22,33 +16,38 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-<img src="https://github.com/lechitz/lechitz/blob/11cdbc0bd6f80ffc5b58e7952f973cd961cd2dea/pc.png" min-width="200px" max-width="400px" width="300px" align="right" alt="...">
+<div>
+  <img src="https://github.com/lechitz/lechitz/blob/11cdbc0bd6f80ffc5b58e7952f973cd961cd2dea/pc.png" min-width="200px" max-width="300px" width="250px" align="right" alt="...">
+ &nbsp;
+</div>
 
 ### Databases:
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;&nbsp;
 
+&nbsp;
 ### Tools:
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)&nbsp;
 </br>
 
- <div  align="center">
-  </br>
-</div>
+<div align="center">
+ 
+ ## Contributions:
+ &nbsp;
 
+</div>
 
  <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lechitz&theme=dark&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lechitz&show_icons=true&theme=dark&layout=compact" />
  </div>
  
- &nbsp;
-&nbsp;
+ &nbsp;&nbsp;
 
 <div align="center">
  
