@@ -62,7 +62,7 @@
 
 <td valign="top">
 
-<img src="https://github.com/lechitz/lechitz/blob/main/img/ChatGPT%20Image%2031%20de%20mar.%20de%202025%2C%2000_36_10.png" alt="Profile Image" width="450" height="780">
+<img src="https://github.com/lechitz/lechitz/blob/main/img/ChatGPT%20Image%2031%20de%20mar.%20de%202025%2C%2000_36_10.png" alt="Profile Image" width="450" height="765">
 
 </td>
 
