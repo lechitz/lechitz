@@ -3,41 +3,26 @@
 &nbsp;
 </div>
 
- 
-
-<h1 align="center"> Hi, I'm Felipe Bravo! </h1>
-
-### Main Stack:
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-<div>
-  <img src="https://github.com/lechitz/lechitz/blob/11cdbc0bd6f80ffc5b58e7952f973cd961cd2dea/pc.png" min-width="200px" max-width="300px" width="250px" align="right" alt="...">
- &nbsp;
-</div>
-
-### Databases:
-
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;&nbsp;
-
-&nbsp;
-### Tools:
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)&nbsp;
-</br>
+<table>
+  <tr>
+    <td valign="top">
 
 <div align="center">
- 
- ## Contributions:
- &nbsp;
+<h1> Hi, I'm Felipe! </h1>
+</div>
+
+- Backend Developer passionate about technology and Go language enthusiast!
+  
+- Experienced in building scalable APIs, integrating various AWS services.
+
+&nbsp;
+## 🛠️ Technologies & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=go,aws,docker,kubernetes,redis,rabbitmq,mysql,postgresql,js,react)](https://skillicons.dev)
+
+&nbsp;
+## ✅ Contributions:
+&nbsp;
 
 </div>
 
@@ -45,35 +30,37 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lechitz&theme=dark&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lechitz&show_icons=true&theme=dark&layout=compact" />
  </div>
- 
- &nbsp;&nbsp;
 
-<div align="center">
- 
- ## Contacts:
+&nbsp;
+## 🔗 Contact
 
 </div>
 
-
 <div align="center"> 
-<a href="https://www.linkedin.com/in/felipelechitz/" target="_blank">
+<a href="https://www.linkedin.com/in/felipelechitz/" target="_blank" style="margin: 0 10px;">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
 </a> 
  
-<a href="https://www.instagram.com/felipelechitz" target="_blank">
+<a href="https://www.instagram.com/felipelechitz" target="_blank" style="margin: 0 10px;">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://medium.com/@felipelechitz" target="_blank">
+
+<a href="https://medium.com/@felipelechitz" target="_blank" style="margin: 0 10px;">
  <img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank">
 </a> 
 
-<a href="mailto:contato.felipe.lechitz@gmail.com">
+<a href="mailto:contato.felipe.lechitz@gmail.com" style="margin: 0 10px;">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
+</td>
 
+<td valign="top">
 
+<img src="https://github.com/lechitz/lechitz/blob/main/img/ChatGPT%20Image%2031%20de%20mar.%20de%202025%2C%2000_36_10.png" alt="Profile Image" width="450" height="800">
 
+</td>
 
-  
-  
+</tr>
+</table>
+
 <img width=100% style="transform: rotate(18deg)" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
