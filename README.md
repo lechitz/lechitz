@@ -11,17 +11,23 @@
 <h1> Hi, I'm Felipe! </h1>
 </div>
 
+&nbsp;
 - Backend Developer passionate about technology and Go language enthusiast!
   
 - Experienced in building scalable APIs, integrating various AWS services.
 
 &nbsp;
-## 🛠️ Technologies & Tools
+<h2 align="center"> 🛠️ Technologies & Tools: </h2>
+
+
+<div  align="center" style="margin-bottom:100px">
 
 [![My Skills](https://skillicons.dev/icons?i=go,aws,docker,kubernetes,redis,rabbitmq,mysql,postgresql,js,react)](https://skillicons.dev)
 
+</div>
+
 &nbsp;
-## ✅ Contributions:
+<h2 align="center"> ✅ Contributions: </h2>
 &nbsp;
 
 </div>
@@ -32,7 +38,7 @@
  </div>
 
 &nbsp;
-## 🔗 Contact
+<h2 align="center"> 🔗 Contact: </h2>
 
 </div>
 
@@ -56,7 +62,7 @@
 
 <td valign="top">
 
-<img src="https://github.com/lechitz/lechitz/blob/main/img/ChatGPT%20Image%2031%20de%20mar.%20de%202025%2C%2000_36_10.png" alt="Profile Image" width="450" height="800">
+<img src="https://github.com/lechitz/lechitz/blob/main/img/ChatGPT%20Image%2031%20de%20mar.%20de%202025%2C%2000_36_10.png" alt="Profile Image" width="450" height="780">
 
 </td>
 
