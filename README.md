@@ -1,14 +1,14 @@
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=lechitz&color=orange" alt="Profile views">
-&nbsp;
-</div>
-
 <table>
   <tr>
     <td valign="top">
 
 <div align="center">
 <h1> Hi, I'm Felipe! </h1>
+</div>
+
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=lechitz&color=orange" alt="Profile views">
+&nbsp;
 </div>
 
 &nbsp;
@@ -69,4 +69,4 @@
 </tr>
 </table>
 
-<img width=100% style="transform: rotate(18deg)" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% style="transform: rotate(18deg)" src="https://capsule-render.vercel.app/api?type=waving&color=423185&height=120&section=footer"/>
