@@ -19,7 +19,6 @@
 &nbsp;
 <h2 align="center"> 🛠️ Technologies & Tools: </h2>
 
-
 <div  align="center" style="margin-bottom:100px">
 
 [![My Skills](https://skillicons.dev/icons?i=go,aws,docker,kubernetes,redis,rabbitmq,mysql,postgresql,js,react)](https://skillicons.dev)
@@ -62,7 +61,7 @@
 
 <td valign="top">
 
-<img src="https://github.com/lechitz/lechitz/blob/main/img/ChatGPT%20Image%2031%20de%20mar.%20de%202025%2C%2000_36_10.png" alt="Profile Image" width="470" height="750">
+<img src="https://github.com/lechitz/lechitz/blob/main/img/ChatGPT%20Image%2031%20de%20mar.%20de%202025%2C%2000_36_10.png" alt="Profile Image" width="470" height="740">
 
 </td>
 
