@@ -25,9 +25,7 @@
 
 </div>
 
-&nbsp;
 <h2 align="center"> ✅ Contributions: </h2>
-&nbsp;
 
 </div>
 
