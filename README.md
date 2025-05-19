@@ -21,7 +21,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 
-[![My Skills](https://skillicons.dev/icons?i=go,aws,docker,kubernetes,redis,rabbitmq,mysql,postgresql,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,aws,docker,kubernetes,redis,rabbitmq,mysql,postgresql)](https://skillicons.dev)
 
 </div>
 
