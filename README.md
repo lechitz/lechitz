@@ -21,7 +21,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 
-[![My Skills](https://skillicons.dev/icons?i=go,aws,docker,kubernetes,redis,rabbitmq,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,aws,docker,redis,rabbitmq,mysql,postgresql)](https://skillicons.dev)
 
 </div>
 
@@ -46,13 +46,6 @@
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://medium.com/@felipelechitz" target="_blank" style="margin: 0 10px;">
- <img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank">
-</a> 
-
-<a href="mailto:contato.felipe.lechitz@gmail.com" style="margin: 0 10px;">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
 </td>
 
 <td valign="top">
