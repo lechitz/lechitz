@@ -42,10 +42,6 @@
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
 </a> 
 
-<a href="https://www.instagram.com/felipelechitz" target="_blank" style="margin: 0 10px;">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
 </td>
 
 <td valign="top">
